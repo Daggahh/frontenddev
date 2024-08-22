@@ -12,6 +12,7 @@ body{
 .qrmain{
     background-color: white;
     margin: auto;
+    margin-top: 50px;
     width: 320px;
     height: 499px;
     border-radius: 20px;
